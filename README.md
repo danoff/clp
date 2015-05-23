@@ -1,2 +1,6 @@
 # clp
 Collaborative Lesson Planning
+
+This is Charlie Danoff's Collaborative Lesson Planning repository. It is remixed from https://en.wikiversity.org/w/index.php?title=Collaborative_Lesson_Planning&oldid=1037002 started by Charlie Danoff on Wikiversity and unless otherwise noted, contents herein is Copyright (C) 2015 by the Author and given a Creative Commons Attribution-ShareAlike 4.0 Internationa license.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Collaboartive Lesson Planning</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/danoff/clp/" property="cc:attributionName" rel="cc:attributionURL">Charlie Danoff</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://en.wikiversity.org/w/index.php?title=Collaborative_Lesson_Planning&oldid=1037002" rel="dct:source">https://en.wikiversity.org/w/index.php?title=Collaborative_Lesson_Planning&oldid=1037002</a>.
