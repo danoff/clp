@@ -4,7 +4,7 @@ Collaborative Lesson Planning
 This is Charlie Danoff's Collaborative Lesson Planning (CLP) repository. It is remixed from a Wikiversity page started by Charlie and incorporates notes from a P2PU EtherPad on the same topic. Unless otherwise noted, contents herein is Copyright (C) 2015 by the Copyright Holder(s)/Author(s) and given a Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
 
 Find lesson plans (& more resources) to re-mix/re-use!
-* http://betterlesson.org free lesson plans from teachers
+* http://betterlesson.com free lesson plans from teachers
 * http://teacherspayteachers.com not-free lesson plans from teachers
 * http://saylor.org free, gratis and libre courses to re-mix
 * http://oercommons.org free resources 
@@ -14,7 +14,8 @@ Find lesson plans (& more resources) to re-mix/re-use!
 * http://www.englishbanana.com/ public domain ESL books, worksheets and more
 * http://github.com/karlstolley syllabi to re-mix
 
-Chicago ICE 2015 Poster
+Chicago ICE 2015 Poster - 26 May 2015
+http://www.chicagoice.org/posters-2015/
 
 <img src="http://www.mr.danoff.org/clp-poster-may2015.jpeg">
 
