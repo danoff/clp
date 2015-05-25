@@ -23,7 +23,7 @@ Poster Content Links
 * http://water.usgs.gov/edu/watercycle.html Water cycle
 * https://commons.wikimedia.org/w/index.php?title=File:Duchamp_Fountaine.jpg&oldid=133561865
 * Delivering "Jugyou Kenkyuu" for Reframing Schools as  Learning Organizations: An Examination of the Process of Japanese School (2007) Change Arani, Mohammad Reza Sarkar; Shibata, Yoshiaki; Matoba, Masami http://files.eric.ed.gov/fulltext/ED495352.pdf
-
+* Source .xcf file http://www.mr.danoff.org/clp-poster-may2015.xcf
 
 More Links
 * http://www.mr.danoff.org/howto-clp.pdf Handout on how to CLP.
