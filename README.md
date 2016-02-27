@@ -31,6 +31,7 @@ More Links
 * http://www.mr.danoff.org/clp-encounter.pdf Game to learn about CLP.
 * https://www.youtube.com/watch?v=bfV8Qwsaatc My talk on CLP at the 2011 Open Education Conference.
 * https://www.youtube.com/watch?v=P_h_O9xXVdY My talk on CLP at the 2013 Open Education Conference.
+* http://www.danoff.org/leftinfront/wp-content/uploads/downloads/2013/11/2013-open-education-conference-collaborative-lesson-planning-talk.pdf slides from talk on talk on CLP at the 2013 Open Education Conference.
 * http://pad.p2pu.org/clp-okcon2011 Notes from 2011 and 2013 OpenEd Conference talks.
 * Handout from my 2013 InService at the College of Chicago http://www.danoff.org/leftinfront/wp-content/uploads/downloads/2013/11/2013-05-22-collaborative-lesson-planning-coc-inservice-handout.pdf
 * Wikiversity Page http://en.wikiversity.org/wiki/Collaborative_Lesson_Planning
